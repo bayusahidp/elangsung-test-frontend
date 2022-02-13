@@ -1,24 +1,15 @@
 # elangsung-test-frontend
 
 ## Project setup
-```
-npm install
-```
+Menggunakan vue@cli 2.6.11
+- buka terminal / cmd pada PC / Laptop anda
+- tentukan lokasi folder
+- git clone {{ url repo ini }}
+- cd {{ nama repo / folder project }}
+- npm run serve
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+aplikasi berjalan pada : "http://localhost:8080"
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Login hanya bisa dengan akun admin
+- username : admin
+- password : password
